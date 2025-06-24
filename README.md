@@ -1,3 +1,5 @@
+https://github.com/m-malandro/Florence-Price-listening-examples
+
 This repository includes 112 songs by Florence B Price. The songs were manually transcribed into Musescore from Price's manuscripts, which the author accessed through the University of Arkansas David W. Mullins Library and the University of Pennsylvania Kislak Center for Special Collections, Rare Books, and Manuscripts.
 
 106 of the songs are completed songs written for solo voice and piano. We put these songs in the price_songs_main folder, which is separated into two folders: one for songs Price originally composed, and one for songs, primarily African American folk songs, that Price arranged for solo voice and piano. The first folder contains 95 songs and the second contains 11 arrangements.
