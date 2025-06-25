@@ -131,6 +131,8 @@ These scores are released under Creative Commons Zero (CC0). See LICENSE.txt.
 All scores not under copyright are provided for academic use.  
 Please cite the ISMIR 2025 paper if using this dataset.
 
+---
+
 ## Call for Contributions
 
 We welcome contributions to the Florence Price Art Song Dataset! We acknowledge limitations to the annotations due to the lack of annotators. If you wish to help improve the dataset, please contact the authors of the ISMIR 2025 paper.
