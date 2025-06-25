@@ -1,4 +1,7 @@
-https://github.com/m-malandro/Florence-Price-listening-examples
+This repository is a companion to the ISMIR 2025 paper "The Florence Price Art Song Dataset and Piano Accompaniment Generator"
+- [Paper (arXiv)](link/soon)
+- [Piano Accompaniment Generator (Colab)](https://colab.research.google.com/drive/1MRuk5y70M_hUjhOkD9KphFgJIgR1C9H-)
+- [Listening Examples (github)](https://github.com/m-malandro/Florence-Price-listening-examples)
 
 This repository includes 112 songs by Florence B Price. The songs were manually transcribed into Musescore from Price's manuscripts, which the author accessed through the University of Arkansas David W. Mullins Library and the University of Pennsylvania Kislak Center for Special Collections, Rare Books, and Manuscripts.
 
