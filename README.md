@@ -1,4 +1,4 @@
-# Florence Price Art Song Dataset and Piano Accompaniment Generator
+# Florence Price Art Song Dataset
 
 **This repository is a companion to the ISMIR 2025 paper**  
 **“The Florence Price Art Song Dataset and Piano Accompaniment Generator”**
