@@ -41,7 +41,11 @@ Each song folder includes:
     - Descriptive adjective  
     - Musical style
 
-> 🔁 **For songs with repeats**, four "onsets" files are included: two based on the **written** bar values, and two based on the **performed** values.
+#### Audio Files
+
+We recognize the need for audio files of the songs for some researchers. Therefore, we include `audio_script.py`, a script that can render audio for each of the Musescore files in the repository. Please note that rendering the audio for all 112 songs takes a significant amount of time (~1 hour).
+
+> 🔁 **For songs with repeats**, four "onsets" files are included: two based on the **written** bar values, and two based on the **performed** values. See list of songs with repeats below.
 
 ### 📁 `price_songs_incomplete/` (6 songs)
 These are either incomplete or not scored for solo voice and piano. For each, we include only the `.mscz` file.
@@ -122,5 +126,11 @@ Although we couldn’t confirm renewals, to avoid legal risk, we exclude the fol
 
 ## License
 
+These scores are released under Creative Commons Zero (CC0). See LICENSE.txt.
+
 All scores not under copyright are provided for academic use.  
 Please cite the ISMIR 2025 paper if using this dataset.
+
+## Call for Contributions
+
+We welcome contributions to the Florence Price Art Song Dataset! We acknowledge limitations to the annotations due to the lack of annotators. If you wish to help improve the dataset, please contact the authors of the ISMIR 2025 paper.
