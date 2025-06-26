@@ -25,7 +25,7 @@ Organized into three subfolders:
 
 1. **Original Compositions**: 95 songs composed by Price  
 2. **Arrangements**: 11 songs arranged by Price, primarily African American folk songs
-3. **Thou Art**: This song composed by Price for voice, piano, and cello is separated from the songs composed for voice and piano. We only include the MuseScore file for this song.
+3. **Thou'rt My Loved One**: This song composed by Price for voice, piano, and violin is separated from the songs composed for voice and piano. We only include the `.mscz` for this song.
 
 Each song folder includes:
 
@@ -48,8 +48,8 @@ We recognize the need for audio files of the songs for some researchers. Therefo
 
 > 🔁 **For songs with repeats**, four "onsets" files are included: two based on the **written** bar values, and two based on the **performed** values. See list of songs with repeats below.
 
-### 📁 `price_songs_incomplete/` (6 songs)
-These are either incomplete or not scored for solo voice and piano. For each, we include only the `.mscz` file.
+### 📁 `price_songs_incomplete/` (5 songs)
+These are songs which existing manuscripts are incomplete. For each, we include only the `.mscz` file.
 
 ### 📝 Edited Scores
 Three scores were originally typeset by **Owain Evans** under a CC0 license on MuseScore:
@@ -104,12 +104,14 @@ Although we couldn’t confirm renewals, to avoid legal risk, we exclude the fol
 | Hitch Up Your Belts, Boys | 1942 |
 | In Back o’ the Clouds | 1930 |
 | Let’s Build a Little Love Nest | 1930 |
-| Night *(Louise Wallace)* | 1973 |
+| Night *(Louise Wallace)* * | 1973 |
 | Out of the South Blew a Soft Sweet Wind | 1973 |
 | Songs to the Dark Virgin | 1968 |
 | Sunset | 1938 |
 | The Moon Bridge | 1957 |
 | To My Little Son | 1959 |
+
+*: Not to be confused with *(Night)*, set to text by Paul Laurence Dunbar, which is included in the dataset.
 
 #### **Arrangements**  
 | Title | Year |
@@ -127,9 +129,9 @@ Although we couldn’t confirm renewals, to avoid legal risk, we exclude the fol
 ## License
 
 These scores are released under Creative Commons Zero (CC0). See LICENSE.txt.
-
-All scores not under copyright are provided for academic use.  
-Please cite the ISMIR 2025 paper if using this dataset.
+  
+Please cite the following paper if publishing work using this dataset:
+T. He, M. E. Malandro, D. Shadle. 2025. The Florence Price Art Song Dataset And Piano Accompaniment Generator. *(Proceedings of the International Society for Music Information Retrieval Conference.)*
 
 ---
 
