@@ -20,11 +20,12 @@ This repository provides access to **112 songs** by composer **Florence B. Price
 
 ## Dataset Structure
 
-### 📁 `price_songs_main/` (106 complete songs)
-Organized into two subfolders:
+### 📁 `price_songs_main/` (107 complete songs)
+Organized into three subfolders:
 
 1. **Original Compositions**: 95 songs composed by Price  
 2. **Arrangements**: 11 songs arranged by Price, primarily African American folk songs
+3. **Thou Art**: This song composed by Price for voice, piano, and cello is separated from the songs composed for voice and piano. We only include the MuseScore file for this song.
 
 Each song folder includes:
 
@@ -65,7 +66,6 @@ All remaining scores were typeset by the first author.
 
 In the dataset, **oboe** is used as a substitute for the voice part.  
 This is consistent with practices in datasets like the [OpenScore Lieder Corpus](https://github.com/MarkGotham/Lieder).  
-Note: This may cause visual inconsistencies in PDFs.
 
 ---
 
