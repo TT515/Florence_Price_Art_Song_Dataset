@@ -96,7 +96,7 @@ This is consistent with practices in datasets like the [OpenScore Lieder Corpus]
 Although we couldn’t confirm renewals, to avoid legal risk, we exclude the following 17 songs from the dataset and training set:
 
 #### **Original Compositions**  
-| Title | Year |
+| Title | Year of Copyright Registration/Renewal |
 |-------|------|
 | An April Day | 1949 |
 | Desire | 1959 |
@@ -114,7 +114,7 @@ Although we couldn’t confirm renewals, to avoid legal risk, we exclude the fol
 *: Not to be confused with *(Night)*, set to text by Paul Laurence Dunbar, which is included in the dataset.
 
 #### **Arrangements**  
-| Title | Year |
+| Title | Year of Copyright Registration/Renewal |
 |-------|------|
 | I Am Bound for the Kingdom | 1949 |
 | I’m Workin’ on My Buildin’ | 1949 |
