@@ -86,11 +86,11 @@ This is consistent with practices in datasets like the [OpenScore Lieder Corpus]
 
 ---
 
-## Copyright Status
+## Copyright Status in the US
 
 ### 🟢 **Public Domain Works**
 - Published before 1930  
-- Unpublished works (entered public domain on Jan 1, 2024 — 70 years after Price's death in 1953)
+- Unpublished works (entered public domain in the US on Jan 1, 2024 — 70 years after Price's death in 1953)
 
 ### 🔴 **Omitted Due to Copyright Risk**
 Although we couldn’t confirm renewals, to avoid legal risk, we exclude the following 17 songs from the dataset and training set:
