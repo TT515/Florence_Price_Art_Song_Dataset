@@ -3,7 +3,7 @@
 **This repository is a companion to the ISMIR 2025 paper**  
 **“The Florence Price Art Song Dataset and Piano Accompaniment Generator”**
 
-- 📄 [Paper (arXiv)](link/soon)  
+- 📄 [Paper (arXiv)](https://arxiv.org/abs/2506.23130)  
 - 🎹 [Piano Accompaniment Generator (Colab)](https://colab.research.google.com/drive/1MRuk5y70M_hUjhOkD9KphFgJIgR1C9H-)  
 - 🎧 [Listening Examples (GitHub)](https://github.com/m-malandro/Florence-Price-listening-examples)  
 
