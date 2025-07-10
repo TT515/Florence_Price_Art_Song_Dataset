@@ -2,6 +2,8 @@ import os
 import zipfile
 from pathlib import Path
 
+# This script can extract all the midi files in the directory to a single folder.
+
 def extract_midi_to_single_folder(zip_path, output_dir):
     """
     Extracts all MIDI files from ZIP and puts them directly in one folder.
@@ -60,10 +62,10 @@ def extract_midi_to_single_folder(zip_path, output_dir):
 # Example usage:
 if __name__ == "__main__":
     # Input ZIP file path (change this to your file)
-    input_zip = "/Users/tao-taohe/Desktop/price_songs_main_copy.zip"
+    input_zip = "/your/path"
     
     # Output directory (will be created if doesn't exist)
-    output_directory = "/Users/tao-taohe/Desktop/midis"
+    output_directory = "/your/path"
     
     # Run extraction
     extract_midi_to_single_folder(input_zip, output_directory)
