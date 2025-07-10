@@ -42,7 +42,7 @@ Each song folder includes:
     - Descriptive adjective  
     - Musical style
 
-#### Midi Files
+#### MIDI Files
 
 Under the current structure, the .midi file for each song lies in a separate directory. To collect the .midi files into one folder, run the script **get_midi.py**. Input the correct paths to the dataset and desired output folder. 
 
