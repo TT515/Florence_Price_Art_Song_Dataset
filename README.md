@@ -42,6 +42,10 @@ Each song folder includes:
     - Descriptive adjective  
     - Musical style
 
+#### Midi Files
+
+Under the current structure, the .midi file for each song lies in a separate directory. To collect the .midi files into one folder, run the script **get_midi.py**. Input the correct paths to the dataset and desired output folder. 
+
 #### Audio Files
 
 We recognize the need for audio files of the songs for some researchers. Therefore, we include `audio_script.py`, a script that can render audio for each of the Musescore files in the repository. Please note that rendering the audio for all 112 songs takes a significant amount of time (~1 hour).
